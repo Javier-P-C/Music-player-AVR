@@ -13,6 +13,11 @@ https://raw.githubusercontent.com/Javier-P-C/Music-player-AVR/master/imgs/en_fis
 
 https://raw.githubusercontent.com/Javier-P-C/Music-player-AVR/master/imgs/en_fisico2.jpg
 
+
 Participants:
+
 Gerardo Peña Pérez
+
 Walter Humpr Humphrey 
+
+Javier Piña Camacho
